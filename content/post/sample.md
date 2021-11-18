@@ -1,18 +1,21 @@
 +++
-author = "syui"
+author = "Ntelu"
 comments = false
-date = "2017-01-01"
+date = "2021-11-18"
 draft = false
 image = ""
 menu = ""
 share = false
 slug = "test"
-title= "sample"
+title= "Redes Sociales"
 +++
 
-[Hugo](https://gohugo.io/documentation/) is the world's fastest static website engine. It's written in Go (aka Golang) and developed by bep, `spf13` and friends.
+[Facebook](https://www.facebook.com/Fundaci%C3%B3n-M%C3%A9xico-Cripto-103479195274623) 
 
-> Below you will find some of the most common and helpful pages from our documentation.
+> Siguenos en Facebook para que estes informado de los avances de este gran proyecto
 
-https://gohugo.io/documentation/
+[Twitter](https://twitter.com/CriptoFundacion) 
+
+> Siguenos en Twitter para que estes informado de los avances de este gran proyecto
+
 

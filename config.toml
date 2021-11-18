@@ -1,23 +1,23 @@
-BaseUrl= "https://syui.cf/hugo-theme-air/"
+BaseUrl= "https://localhost/"
 LanguageCode= "en-US"
-Title= "Hugo Theme Air"
+Title= "Irete Ntelu"
 paginate = 5
 DisqusShortname = ""
-Copyright = "All rights reserved - 2016"
+Copyright = "All rights reserved - 2021"
 canonifyurls = true
 
 [author]
-  name = "syui"
+  name = "Ntelu"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug"
 
 [params]
-  description = "this is my description"
+  description = "Awo ni Orunmila"
   cover = "images/user.jpg"
-  author = "syui"
+  author = "Ntelu"
   authorlocation = ""
-  authorwebsite = "https://syui.cf/hugo-theme-air"
+  authorwebsite = "https://localhost/"
   bio= "my bio"
   logo = "images/user.png"
   googleAnalyticsUserID = ""

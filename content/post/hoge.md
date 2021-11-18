@@ -1,15 +1,15 @@
 +++
-author = "syui"
+author = "Ntelu"
 comments = false
-date = "2016-01-01"
+date = "2021-11-17"
 draft = false
 image = ""
 menu = ""
 share = false
 slug = "test"
-title= "test post"
+title= "Preguntas"
 +++
 
 ```bash
-echo "hello world !!"
+"Puedes dejar tu comentario"
 ```
